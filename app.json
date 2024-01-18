@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "wondertooth-nativewind-app",
+    "slug": "wondertooth-nativewind-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "src/assets/lg.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "src/assets/we.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+       "bundleIdentifier": "app.wondertooth.co"
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "src/assets/lg.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "app.wondertooth.co",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "src/assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "aeac5118-0ee2-4837-957e-fdc78fb0f6e3"
+      }
+    }
+  }
+}
