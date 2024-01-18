@@ -77,7 +77,7 @@ export default function App() {
         headerShadowVisible: true,
         headerTitleAlign: "center",
         headerTitle: () => (
-          <Text className="text-base uppercase text-slate-900" style={{ fontFamily: 'Laila-Bold' }}>Wonder Tooth</Text>
+          <Text className="text-base uppercase text-slate-900" style={{ fontFamily: 'Laila-Bold' }}>My Expo App</Text>
         ),
         headerBackground: () => (
           <View className="flex-1">

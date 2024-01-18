@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "wondertooth-nativewind-app",
-    "slug": "wondertooth-nativewind-app",
+    "name": "my-expo-app",
+    "slug": "my-expo-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "src/assets/lg.png",
@@ -19,14 +19,14 @@
     ],
     "ios": {
       "supportsTablet": true,
-       "bundleIdentifier": "app.wondertooth.co"
+       "bundleIdentifier": ""
     },
     "android": {
       "adaptiveIcon": {
         "foregroundImage": "src/assets/lg.png",
         "backgroundColor": "#FFFFFF"
       },
-      "package": "app.wondertooth.co",
+      "package": "",
       "versionCode": 1
     },
     "web": {

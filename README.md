@@ -1,1 +1,1 @@
-"# wondertooth-nativewind-app"
+"# my-expo-app"
